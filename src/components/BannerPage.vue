@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-6 middle-hori">
         <h3 class="matcha-color kindly-font">
-          Hello! <span style="font-size: 15px">I'm</span>
+          Hello! <span style="font-size: 15px">My name is</span>
         </h3>
 
         <div class="typewriter">
